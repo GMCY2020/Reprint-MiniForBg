@@ -8,7 +8,7 @@
 
 - 作者: 啊是特嗷桃
 - 系列: 复刻系列 (衍生 [wallpaper 壁纸引擎](https://www.wallpaperengine.io/) 用)
-- 网站: [网页版在线预览](https://gmcy2020.github.io/Reprint-MiniForBg/) (没有搞大小适配，建议横屏看；这个不能切角色，只能在wallpaper中切)
+- 网站: [网页版在线预览](https://gmcy2020.github.io/Reprint-MiniForBg/) (没有搞大小适配, 建议横屏看; 这个不能切角色, 只能在wallpaper中切)
 - 仓库: [GitHub](https://github.com/GMCY2020/Reprint-MiniForBg) | [Gitee](https://gitee.com/GMCY2020/Reprint-MiniForBg)
 - 话题(GitHub): [vue](https://github.com/topics/vue) \ [reprint](https://github.com/topics/reprint) \ [mihoyo](https://github.com/topics/mihoyo) \ [Genshin Impact](https://github.com/topics/genshin-impact) \ [wallpaper](https://github.com/topics/wallpaper)
 - 创建时间: 2025/01/04
