@@ -1,0 +1,74 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "米哈游\n实时渲染显示角色动态图背景\n\n角色目前包括(胡桃，纳西妲，芙宁娜，茜特菈莉)\n\n可自定义背景图片\n可自定义背景颜色\n测试~",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"role" : 
+			{
+				"index" : 1,
+				"options" : 
+				[
+					{
+						"label" : "胡桃",
+						"value" : "hutao"
+					},
+					{
+						"label" : "纳西妲",
+						"value" : "naxida"
+					},
+					{
+						"label" : "芙宁娜",
+						"value" : "funingna"
+					},
+					{
+						"label" : "茜特菈莉",
+						"value" : "xitelali"
+					}
+				],
+				"order" : 101,
+				"text" : "角色",
+				"type" : "combo",
+				"value" : "hutao"
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.9647058823529412 0.9137254901960784 0.7803921568627451"
+			},
+			"selfbgpath" : 
+			{
+				"condition" : "showbg.value == false",
+				"fileType" : "image",
+				"index" : 2,
+				"order" : 102,
+				"text" : "自定义背景图片",
+				"type" : "file",
+				"value" : ""
+			},
+			"showbg" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "显示默认背景图片",
+				"type" : "bool",
+				"value" : true
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"snapshotformat" : 0,
+	"snapshotoverlay" : "",
+	"tags" : [ "Game" ],
+	"title" : "米哈游可切换角色背景动态壁纸",
+	"type" : "web",
+	"version" : 1,
+	"workshopid" : "",
+	"workshopurl" : ""
+}
